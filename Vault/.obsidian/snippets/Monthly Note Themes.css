@@ -1,0 +1,62 @@
+:root {
+  --highlight: #ffffff;
+  --primary: #aaaaaa;
+  --darK: #333333;
+}
+
+.monthly {
+  --dark: var(--dark);
+  color: var(--highlight);
+  background-color: var(--dark);
+  --text-normal: var(--highlight);
+  --text-faint: var(--highlight);
+  --checklist-done-color: var(--highlight);
+  --metadata-label-text-color: var(--highlight);
+  --metadata-input-text-color: var(--highlight);
+  --tag-color: var(--darK);
+  --tag-background: var(--primary);
+  --hr-color: var(--primary);
+  --blockquote-border-color: var(--primary);
+  --interactive-accent: var(--primary);
+  --collapse-icon-color-collapse: var(--primary);
+  --checkbox-color: var(--primary);
+  --checkbox-marker-color: var(--dark);
+  --checkbox-color-hover: var(--highlight);
+  --checkbox-border-color: var(--highlight);
+  --list-marker-color: var(--highlight);
+  --code-background: black;
+  --code-normal: var(--primary);
+
+  --background-modifier-border-focus: var(--primary);
+  --background-modifier-border: color-mix(in srgb, var(--highlight) 60%, transparent);
+  --background-modifier-hover: color-mix(in srgb, var(--highlight) 60%, transparent);
+  --pill-cover-hover: color-mix(in srgb, var(--highlight) 60%, transparent);
+}
+
+.monthly-color {
+  --highlight: #bcc0cc;
+  --primary: #6c6f85;
+  --title: #dce0e8;
+  --dark: hsl(234, 16%, 16%);
+}
+
+.monthly :is(h1, .HyperMD-header.HyperMD-header-1) {
+  color: var(--title);
+  text-align: center;
+  font-size: 45px;
+  font-family: "Bai Jamjuree", "JetBrainsMono Nerd Font Mono", "JetBrains Mono";
+  padding: 0 !important;
+}
+
+.monthly :is(h2, .HyperMD-header.HyperMD-header-2) {
+  color: var(--title);
+  text-align: center;
+  font-size: 30px;
+  font-family: "Bai Jamjuree", "JetBrainsMono Nerd Font Mono", "JetBrains Mono";
+  font-style: italic;
+  padding: 0 !important;
+}
+
+:is(.monthly-color) svg {
+  color: color-mix(in srgb, var(--highlight) 60%, transparent)
+}

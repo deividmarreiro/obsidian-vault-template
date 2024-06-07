@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "4e04e5c98d2ff9b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "05bd61852ac12bcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3781aeb54318376f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Inbox/202406062009.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c404a372b6125c56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Periodic Notes/Daily/20240607.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9bcff57383b893d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "126fe56fbb296bb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0278cb3e51942e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30f2306057ba1542",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31167a23bd08625d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e583a0a51ecd5ba",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 449.5
+  },
+  "right": {
+    "id": "36cbe4340e6dc46a",
+    "type": "split",
+    "children": [
+      {
+        "id": "53c37e7a14b37a05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "435d683ef4a6f01a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06 - Periodic Notes/Daily/20240607.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d67ead8d0e9bd4a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06 - Periodic Notes/Daily/20240607.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12c3df92a1433b59",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1ddc546dc15c6f59",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "06 - Periodic Notes/Daily/20240607.md"
+              }
+            }
+          },
+          {
+            "id": "a85064d51c776253",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d973bddc829ccdb",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd70c554c9ee1f77",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "c404a372b6125c56",
+  "lastOpenFiles": [
+    "01 - Inbox/202406062009.md",
+    "06 - Periodic Notes/Daily/20240607.md",
+    "01 - Inbox/2024.md",
+    "01 - Inbox/202406062005.md",
+    "01 - Inbox/Round String with Hashtag.md",
+    "01 - Inbox/Read Entendo Algoritmos.md",
+    "01 - Inbox/Project Animal Adoption.md",
+    "01 - Inbox/Land my first position as a DevOps Engineer.md",
+    "01 - Inbox/CKA.md",
+    "99 - Meta/00 Templates/(TEMPLATE) Daily (Vanilla).md.md",
+    "99 - Meta/00 Templates/(TEMPLATE) Daily.md.md",
+    "99 - Meta/00 Templates/(TEMPLATE) Monthly.md",
+    "99 - Meta/00 Templates/(TEMPLATE) Weekly.md.md",
+    "06 - Periodic Notes/Weekly/20240603.md",
+    "06 - Periodic Notes/Monthly/2024-06.md",
+    "06 - Periodic Notes/Daily/20240606.md",
+    "06 - Periodic Notes/Weekly/20240610.md",
+    "06 - Periodic Notes/Daily/20240605.md",
+    "00 - Realms/Weekly.md",
+    "00 - Realms/Monthly.md",
+    "99 - Meta/Preloaded Classes/202401211512 Notebook CSS Classes.md.md",
+    "06 - Periodic Notes/Monthly/2024-05.md",
+    "Templates/monthly.md",
+    "03 - Projects/Personal Portifolio/Personal Portifolio.md",
+    "Periodic Notes/Weekly/2024-W23.md",
+    "06 - Periodic Notes/Weekly/2024-W23.md",
+    "Periodic Notes/Weekly",
+    "Periodic Notes",
+    "99 - Meta/Preloaded Classes",
+    "99 - Meta/00 Templates",
+    "05 - Fleeting",
+    "04 - Permanent",
+    "06 - Periodic Notes/Daily",
+    "99 - Meta",
+    "00 - Realms",
+    "06 - Periodic Notes/Weekly"
+  ]
+}

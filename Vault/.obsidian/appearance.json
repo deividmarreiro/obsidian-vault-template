@@ -1,0 +1,18 @@
+{
+  "accentColor": "",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "cssTheme": "Catppuccin",
+  "enabledCssSnippets": [
+    "CyanVoxel's General Tweaks",
+    "Daily Note Themes",
+    "Weekly Note Themes",
+    "Colored Sidebar Items",
+    "Monthly Note Themes"
+  ],
+  "baseFontSize": 17,
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "translucency": false
+}
