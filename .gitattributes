@@ -1,0 +1,13 @@
+# Auto detect text files and perform line ending normalization
+# This configuration applies to all files in the repository
+# Explanation:
+# The wildcard (*) ensures that this rule applies to all files in the repository.
+# The 'text=auto' setting tells Git to automatically detect text files and perform line ending normalization.
+# When a file is detected as a text file:
+# - Git will store the file in the repository with LF (Line Feed) line endings, ensuring consistency across all platforms.
+# - When checking out the file on a Windows system, Git will convert LF to CRLF (Carriage Return + Line Feed) to match the native Windows line ending format.
+# - When checking out the file on a Unix/Linux/Mac system, Git will retain the LF line endings.
+# This helps prevent issues related to inconsistent line endings across different operating systems,
+# avoiding unnecessary diffs and merge conflicts caused by line ending differences.
+* text=auto
+
