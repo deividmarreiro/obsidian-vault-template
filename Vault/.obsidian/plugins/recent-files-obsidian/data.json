@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Weekly",
+      "path": "00 - Map of Contents/Weekly.md"
+    },
+    {
+      "basename": "Monthly",
+      "path": "00 - Map of Contents/Monthly.md"
+    },
+    {
       "basename": "20240607",
-      "path": "06 - Periodic Notes/Daily/20240607.md"
+      "path": "03 - Periodic Notes/Daily/20240607.md"
     },
     {
       "basename": "202406062009",
@@ -54,31 +62,23 @@
     },
     {
       "basename": "20240603",
-      "path": "06 - Periodic Notes/Weekly/20240603.md"
+      "path": "03 - Periodic Notes/Weekly/20240603.md"
     },
     {
       "basename": "2024-06",
-      "path": "06 - Periodic Notes/Monthly/2024-06.md"
+      "path": "03 - Periodic Notes/Monthly/2024-06.md"
     },
     {
       "basename": "20240606",
-      "path": "06 - Periodic Notes/Daily/20240606.md"
+      "path": "03 - Periodic Notes/Daily/20240606.md"
     },
     {
       "basename": "20240610",
-      "path": "06 - Periodic Notes/Weekly/20240610.md"
+      "path": "03 - Periodic Notes/Weekly/20240610.md"
     },
     {
       "basename": "20240605",
-      "path": "06 - Periodic Notes/Daily/20240605.md"
-    },
-    {
-      "basename": "Weekly",
-      "path": "00 - Realms/Weekly.md"
-    },
-    {
-      "basename": "Monthly",
-      "path": "00 - Realms/Monthly.md"
+      "path": "03 - Periodic Notes/Daily/20240605.md"
     },
     {
       "basename": "202401211512 Notebook CSS Classes.md",
@@ -86,7 +86,7 @@
     },
     {
       "basename": "Personal Portifolio",
-      "path": "03 - Projects/Personal Portifolio/Personal Portifolio.md"
+      "path": "05 - Projects/Personal Portifolio/Personal Portifolio.md"
     },
     {
       "basename": "202406051858 Daily CSS Classes.md",
