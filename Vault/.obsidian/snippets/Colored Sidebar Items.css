@@ -766,36 +766,36 @@ these to suit your own folder structure and vault theme!
   color: var(--cadet-gray);
   --nav-item-color-hover: color-mix(
     in srgb,
-    var(--red) var(--fg-contrast-amount),
+    var(--cadet-gray) var(--fg-contrast-amount),
     var(--contrast-color)
   );
   --nav-item-background-hover: color-mix(
     in srgb,
-    var(--red) var(--bg-contrast-amount),
+    var(--cadet-gray) var(--bg-contrast-amount),
     transparent
   );
   --background-modifier-border-focus: color-mix(
     in srgb,
-    var(--red) 40%,
+    var(--cadet-gray) 40%,
     transparent
   );
   --nav-collapse-icon-color: color-mix(
     in srgb,
-    var(--red) 60%,
+    var(--cadet-gray) 60%,
     transparent
   );
 }
 .nav-folder-title[data-path^="99"]:hover {
   --nav-collapse-icon-color: color-mix(
     in srgb,
-    var(--red) 60%,
+    var(--cadet-gray) 60%,
     var(--contrast-color)
   );
 }
 .tree-item-children .nav-folder:has(.nav-folder-title[data-path^="99"]) {
   --nav-indentation-guide-color: color-mix(
     in srgb,
-    var(--red) var(--medium-contrast-amount),
+    var(--cadet-gray) var(--medium-contrast-amount),
     transparent
   );
 }
@@ -804,28 +804,28 @@ these to suit your own folder structure and vault theme!
   .nav-file-title {
   --nav-item-color: color-mix(
     in srgb,
-    var(--red) var(--medium-contrast-amount),
+    var(--cadet-gray) var(--medium-contrast-amount),
     var(--default-text-color)
   );
   --nav-item-background-hover: color-mix(
     in srgb,
-    color-mix(in srgb, var(--red) 50%, var(--highlight))
+    color-mix(in srgb, var(--cadet-gray) 50%, var(--highlight))
       var(--bg-contrast-amount),
     transparent
   );
   --background-modifier-border-focus: color-mix(
     in srgb,
-    var(--red) 40%,
+    var(--cadet-gray) 40%,
     transparent
   );
   --nav-item-background-active: color-mix(
     in srgb,
-    var(--red) var(--active-contrast-amount),
+    var(--cadet-gray) var(--active-contrast-amount),
     transparent
   );
   --nav-item-color-active: color-mix(
     in srgb,
-    var(--red) var(--medium-contrast-amount),
+    var(--cadet-gray) var(--medium-contrast-amount),
     var(--default-text-color)
   );
 }
