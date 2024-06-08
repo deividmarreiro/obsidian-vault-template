@@ -3,7 +3,7 @@
   "interfaceFontFamily": "JetBrainsMono Nerd Font",
   "textFontFamily": "JetBrainsMono Nerd Font",
   "monospaceFontFamily": "JetBrainsMono Nerd Font",
-  "cssTheme": "Catppuccin",
+  "cssTheme": "Vanilla AMOLED",
   "enabledCssSnippets": [
     "CyanVoxel's General Tweaks",
     "Daily Note Themes",
@@ -14,5 +14,6 @@
   "baseFontSize": 17,
   "theme": "obsidian",
   "nativeMenus": false,
-  "translucency": false
+  "translucency": false,
+  "showViewHeader": true
 }

@@ -113,4 +113,4 @@ Visualize Failure of meeting the goals. What are the consequences?
 
 # Links
 
-[[00 - Realms/Monthly|Monthly]]
+[[Monthly|Monthly]]

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "BoBxsCastle",
-      "BoBxsRuler",
-      "BoBxsBatteryFull",
-      "BoBxRuler",
-      "BoBxSelection"
+      "BoBxsNotepad",
+      "BoBxNotepad",
+      "BoBxsInbox",
+      "BoBxPlanet",
+      "BoBxsCastle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,14 +32,17 @@
     "iconIdentifier": ":",
     "debugMode": false
   },
-  "02 - Areas": "BoBxsPackage",
-  "04 - Permanent": "BoBxsFile",
-  "05 - Fleeting": "BoBxsPencil",
-  "07 - Archive": "BoBxsArchive",
   "99 - Meta": "BoBxSelection",
   "99 - Meta/00 Templates": "BoBxsRuler",
-  "06 - Periodic Notes/Daily": "BoBxCalendarEvent",
-  "03 - Projects": "BoBxsPen",
-  "08 - Resources": "BoBxsBook",
-  "00 - Realms": "BoBxsCastle"
+  "00 - Map of Contents": "BoBxPlanet",
+  "01 - Inbox": "BoBxsInbox",
+  "02 - Realms": "BoBxsCastle",
+  "09 - Archive": "BoBxsArchive",
+  "03 - Periodic Notes": "BoBxsNotepad",
+  "03 - Periodic Notes/Daily": "BoBxCalendarEvent",
+  "04 - Areas": "BoBxsPackage",
+  "05 - Projects": "BoBxsPen",
+  "06 - Resources": "BoBxsBook",
+  "07 - Permanent": "BoBxsFile",
+  "08 - Fleeting": "BoBxsPencil"
 }

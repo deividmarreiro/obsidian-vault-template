@@ -77,4 +77,4 @@ Visualize failure of meeting the goals. What are the consequences?
 
 [[<% tp.date.now("YYYY-MM") %>]]
 
-[[00 - Realms/Weekly|Weekly]]
+[[Weekly|Weekly]]

@@ -8,26 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3781aeb54318376f",
+            "id": "c404a372b6125c56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Inbox/202406062009.md",
+                "file": "00 - Map of Contents/Monthly.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c404a372b6125c56",
+            "id": "4d7fdbf66b2821ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Periodic Notes/Daily/20240607.md",
+                "file": "00 - Map of Contents/Weekly.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "9772031b4f317fba",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
               }
             }
           }
@@ -106,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Periodic Notes/Daily/20240607.md",
+                "file": "00 - Map of Contents/Weekly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Periodic Notes/Daily/20240607.md",
+                "file": "00 - Map of Contents/Weekly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Periodic Notes/Daily/20240607.md"
+                "file": "00 - Map of Contents/Weekly.md"
               }
             }
           },
@@ -204,10 +214,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c404a372b6125c56",
+  "active": "f0278cb3e51942e6",
   "lastOpenFiles": [
+    "00 - Map of Contents/Monthly.md",
+    "03 - Periodic Notes/Daily/20240607.md",
+    "00 - Map of Contents",
     "01 - Inbox/202406062009.md",
-    "06 - Periodic Notes/Daily/20240607.md",
     "01 - Inbox/2024.md",
     "01 - Inbox/202406062005.md",
     "01 - Inbox/Round String with Hashtag.md",
@@ -219,28 +231,25 @@
     "99 - Meta/00 Templates/(TEMPLATE) Daily.md.md",
     "99 - Meta/00 Templates/(TEMPLATE) Monthly.md",
     "99 - Meta/00 Templates/(TEMPLATE) Weekly.md.md",
-    "06 - Periodic Notes/Weekly/20240603.md",
-    "06 - Periodic Notes/Monthly/2024-06.md",
-    "06 - Periodic Notes/Daily/20240606.md",
-    "06 - Periodic Notes/Weekly/20240610.md",
-    "06 - Periodic Notes/Daily/20240605.md",
-    "00 - Realms/Weekly.md",
-    "00 - Realms/Monthly.md",
+    "03 - Periodic Notes/Weekly/20240603.md",
+    "03 - Periodic Notes/Monthly/2024-06.md",
+    "03 - Periodic Notes/Daily/20240606.md",
+    "03 - Periodic Notes/Weekly/20240610.md",
+    "03 - Periodic Notes/Daily/20240605.md",
+    "00 - Map of Contents/Weekly.md",
     "99 - Meta/Preloaded Classes/202401211512 Notebook CSS Classes.md.md",
     "06 - Periodic Notes/Monthly/2024-05.md",
     "Templates/monthly.md",
-    "03 - Projects/Personal Portifolio/Personal Portifolio.md",
+    "05 - Projects/Personal Portifolio/Personal Portifolio.md",
     "Periodic Notes/Weekly/2024-W23.md",
-    "06 - Periodic Notes/Weekly/2024-W23.md",
     "Periodic Notes/Weekly",
     "Periodic Notes",
     "99 - Meta/Preloaded Classes",
     "99 - Meta/00 Templates",
-    "05 - Fleeting",
-    "04 - Permanent",
-    "06 - Periodic Notes/Daily",
+    "08 - Fleeting",
+    "07 - Permanent",
+    "03 - Periodic Notes/Daily",
     "99 - Meta",
-    "00 - Realms",
-    "06 - Periodic Notes/Weekly"
+    "02 - Realms"
   ]
 }
