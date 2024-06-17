@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "05bd61852ac12bcd",
+        "id": "5bb947ae469ad26d",
         "type": "tabs",
         "children": [
           {
-            "id": "c404a372b6125c56",
+            "id": "edfb625e8fdb9b8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Map of Contents/Monthly.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d7fdbf66b2821ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Map of Contents/Weekly.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9772031b4f317fba",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.2"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +62,7 @@
             }
           },
           {
-            "id": "2e583a0a51ecd5ba",
+            "id": "ef79edb052d597b5",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -116,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Map of Contents/Weekly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Map of Contents/Weekly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00 - Map of Contents/Weekly.md"
-              }
+              "state": {}
             }
           },
           {
@@ -203,14 +172,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "homepage:Open homepage": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
       "periodic-notes:Open today": false
     }
   },
