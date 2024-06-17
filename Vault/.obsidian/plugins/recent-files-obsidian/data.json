@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "(TEMPLATE) Unique.md",
-      "path": "99 - Meta/00 Templates/(TEMPLATE) Unique.md.md"
+      "basename": "Placeholder",
+      "path": "03 - Periodic Notes/Daily/Placeholder.md"
     },
     {
       "basename": "202406171249",
@@ -11,6 +11,14 @@
     {
       "basename": "Placeholder",
       "path": "01 - Inbox/Placeholder.md"
+    },
+    {
+      "basename": "(TEMPLATE) Daily.md",
+      "path": "99 - Meta/00 Templates/(TEMPLATE) Daily.md.md"
+    },
+    {
+      "basename": "(TEMPLATE) Unique.md",
+      "path": "99 - Meta/00 Templates/(TEMPLATE) Unique.md.md"
     },
     {
       "basename": "Weekly",
@@ -59,10 +67,6 @@
     {
       "basename": "(TEMPLATE) Daily (Vanilla).md",
       "path": "99 - Meta/00 Templates/(TEMPLATE) Daily (Vanilla).md.md"
-    },
-    {
-      "basename": "(TEMPLATE) Daily.md",
-      "path": "99 - Meta/00 Templates/(TEMPLATE) Daily.md.md"
     },
     {
       "basename": "(TEMPLATE) Monthly",

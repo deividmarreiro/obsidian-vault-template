@@ -5,19 +5,19 @@
   "daily": {
     "format": "YYYYMMDD",
     "template": "99 - Meta/00 Templates/(TEMPLATE) Daily.md.md",
-    "folder": "06 - Periodic Notes/Daily",
+    "folder": "03 - Periodic Notes/Daily",
     "enabled": true
   },
   "weekly": {
     "format": "YYYYMMDD",
     "template": "99 - Meta/00 Templates/(TEMPLATE) Weekly.md.md",
-    "folder": "06 - Periodic Notes/Weekly",
+    "folder": "03 - Periodic Notes/Weekly",
     "enabled": true
   },
   "monthly": {
     "format": "",
     "template": "99 - Meta/00 Templates/(TEMPLATE) Monthly.md",
-    "folder": "06 - Periodic Notes/Monthly",
+    "folder": "03 - Periodic Notes/Monthly",
     "enabled": true
   },
   "quarterly": {
