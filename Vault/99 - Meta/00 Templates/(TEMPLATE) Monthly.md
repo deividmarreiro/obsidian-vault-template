@@ -1,7 +1,7 @@
 ---
-date: {{date:YYYY-MM-DD}}}
+date: {{date:YYYY-MM}}
 tags: [Monthly]
-cssclasses: [monthly][monthly-color]
+cssclasses: [monthly, monthly-color]
 ---
 
 # Monthly Quests

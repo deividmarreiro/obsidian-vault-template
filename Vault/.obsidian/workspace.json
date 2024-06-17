@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "878d6e168ed88a99",
+        "id": "016dafd09ea324a3",
         "type": "tabs",
         "children": [
           {
-            "id": "75b77e8006b7375b",
+            "id": "22ebe8a04cc7ff46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Periodic Notes/Daily/Placeholder.md",
+                "file": "99 - Meta/00 Templates/(TEMPLATE) Weekly.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Periodic Notes/Daily/Placeholder.md",
+                "file": "99 - Meta/00 Templates/(TEMPLATE) Weekly.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Periodic Notes/Daily/Placeholder.md",
+                "file": "99 - Meta/00 Templates/(TEMPLATE) Weekly.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Periodic Notes/Daily/Placeholder.md"
+                "file": "99 - Meta/00 Templates/(TEMPLATE) Weekly.md.md"
               }
             }
           },
@@ -191,16 +191,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "75b77e8006b7375b",
+  "active": "22ebe8a04cc7ff46",
   "lastOpenFiles": [
-    "06 - Periodic Notes/Daily/20240617.md",
+    "01 - Inbox/202406171249.md",
+    "99 - Meta/00 Templates/(TEMPLATE) Weekly.md.md",
+    "03 - Periodic Notes/Weekly/20240616.md",
+    "03 - Periodic Notes/Monthly/2024-06.md",
+    "03 - Periodic Notes/Daily/20240617.md",
+    "03 - Periodic Notes/Monthly/Placeholder.md",
+    "99 - Meta/00 Templates/(TEMPLATE) Monthly.md",
+    "03 - Periodic Notes/Weekly/20240609.md",
+    "99 - Meta/00 Templates/(TEMPLATE) Unique.md.md",
+    "99 - Meta/00 Templates/(TEMPLATE) Daily.md.md",
+    "01 - Inbox/202406171322.md",
+    "99 - Meta/00 Templates/(TEMPLATE) Daily (Vanilla).md.md",
     "03 - Periodic Notes/Daily/Placeholder.md",
+    "06 - Periodic Notes/Daily/20240617.md",
     "06 - Periodic Notes/Daily",
     "06 - Periodic Notes",
-    "01 - Inbox/202406171249.md",
     "01 - Inbox/Placeholder.md",
-    "99 - Meta/00 Templates/(TEMPLATE) Daily.md.md",
-    "99 - Meta/00 Templates/(TEMPLATE) Unique.md.md",
     "00 - Map of Contents/Monthly.md",
     "03 - Periodic Notes/Daily/20240607.md",
     "00 - Map of Contents",
@@ -212,15 +221,7 @@
     "01 - Inbox/Project Animal Adoption.md",
     "01 - Inbox/Land my first position as a DevOps Engineer.md",
     "01 - Inbox/CKA.md",
-    "99 - Meta/00 Templates/(TEMPLATE) Daily (Vanilla).md.md",
-    "99 - Meta/00 Templates/(TEMPLATE) Monthly.md",
-    "99 - Meta/00 Templates/(TEMPLATE) Weekly.md.md",
     "03 - Periodic Notes/Weekly/20240603.md",
-    "03 - Periodic Notes/Monthly/2024-06.md",
-    "03 - Periodic Notes/Daily/20240606.md",
-    "03 - Periodic Notes/Weekly/20240610.md",
-    "03 - Periodic Notes/Daily/20240605.md",
-    "00 - Map of Contents/Weekly.md",
     "Periodic Notes/Weekly",
     "Periodic Notes",
     "99 - Meta/Preloaded Classes",

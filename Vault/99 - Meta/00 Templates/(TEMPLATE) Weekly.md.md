@@ -1,7 +1,7 @@
 ---
 date: {{date:YYYY-MM-DD}}}
 tags: [Weekly]
-cssclasses: [weekly] [weekly-color]
+cssclasses: [weekly , weekly-color]
 ---
 # Weekly Objectives & Review
 ***
